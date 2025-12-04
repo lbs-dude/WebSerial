@@ -60,3 +60,6 @@ dkms.conf
 /logs
 /.docusaurus
 /node_modules
+
+.next
+out/
